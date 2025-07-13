@@ -1,4 +1,4 @@
-# 🖼️ Conversão de Imagens PPM: Colorida → Cinza → Binarizada
+# 🖼️ Conversão de Imagens: Colorida → Cinza → Binarizada
 
 Este projeto implementa, em Python, a leitura de uma imagem e sua conversão para escala de cinza e para binário (preto e branco), **sem utilizar bibliotecas externas** para o processamento da imagem. Apenas bibliotecas como `matplotlib` e `numpy` são utilizadas **para exibir os resultados**.
 
