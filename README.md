@@ -4,6 +4,13 @@ Este projeto implementa, em Python, a leitura de uma imagem e sua conversão par
 
 ---
 
+> Resultados disponível abaixo:
+
+![Foto Original](\imagem.ppm)
+![Foto Binariizada ](\binaria.ppm)
+![Foto Cinza ](\binaria.ppm)
+
+
 ## 🚀 Funcionalidades
 
 - 📥 Leitura de imagem colorida
