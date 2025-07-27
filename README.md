@@ -6,10 +6,13 @@ Este projeto implementa, em Python, a leitura de uma imagem e sua conversão par
 
 > Resultados disponível abaixo:
 
-![Foto Original](yuri_temp.jpg)
-![Foto Binarizada](binaria_temp.png)
-![Foto Cinza](cinza_temp.png)
+<h3>Resultados das Imagens</h3>
 
+<p float="left">
+  <img src="yuri_temp.jpg" alt="Foto Original" width="200"/>
+  <img src="binaria_temp.png" alt="Foto Binarizada" width="200"/>
+  <img src="cinza_temp.png" alt="Foto Cinza" width="200"/>
+</p>
 
 ## 🚀 Funcionalidades
 
