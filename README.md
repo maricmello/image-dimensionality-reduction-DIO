@@ -4,8 +4,6 @@ Este projeto implementa, em Python, a leitura de uma imagem e sua conversão par
 
 ---
 
-> Resultados disponível abaixo:
-
 <h3>Resultados das Imagens</h3>
 
 <p float="left">
