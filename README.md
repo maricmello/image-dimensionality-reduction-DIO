@@ -14,12 +14,12 @@ Este projeto implementa, em Python, a leitura de uma imagem e sua conversão par
 
   <figure style="display: inline-block; margin-right: 10px; text-align: center;">
     <figcaption style="font-weight: bold; margin-bottom: 5px;">Foto Binarizada</figcaption>
-    <img src="binaria_temp.png" alt="Foto Binarizada" width="200"/>
+    <img src="\conversão\binaria.png" alt="Foto Binarizada" width="200"/>
   </figure>
 
   <figure style="display: inline-block; text-align: center;">
     <figcaption style="font-weight: bold; margin-bottom: 5px;">Foto Cinza</figcaption>
-    <img src="cinza_temp.png" alt="Foto Cinza" width="200"/>
+    <img src="\conversão\cinza.png" alt="Foto Cinza" width="200"/>
   </figure>
 </p>
 
