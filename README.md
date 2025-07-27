@@ -6,9 +6,9 @@ Este projeto implementa, em Python, a leitura de uma imagem e sua conversão par
 
 > Resultados disponível abaixo:
 
-![Foto Original](\imagem.ppm)
-![Foto Binariizada ](\binaria.ppm)
-![Foto Cinza ](\binaria.ppm)
+![Foto Original](\yuri_alberto_comemorando_gol_contra_o_palmeiras_1zbd.jpg)
+![Foto Binariizada ](\binaria.png)
+![Foto Cinza ](\binaria.png)
 
 
 ## 🚀 Funcionalidades
